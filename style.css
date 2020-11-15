@@ -1,0 +1,29 @@
+
+
+td {
+  padding: 0px;
+  width: 30px;
+  height: 30px;
+  text-align: center;
+  border: 1px solid rgb(60, 60, 60);
+}
+
+
+.closed {
+  background-color: lightgray;
+  color: black;
+  cursor: pointer;
+
+}
+
+
+.bombed {
+  background: red;
+  cursor: auto;
+}
+
+
+.opened {
+  background: white;
+  cursor: auto;
+}
